@@ -1,0 +1,621 @@
+{
+  "Atlanta": {
+    "summary": "Fertile ground for hip-hop at the moment",
+    "genres": [
+      {
+        "genre": "Trap",
+        "summary": "",
+        "links": [
+            {
+            "title": "Wikipedia Atlanta Hip-Hop",
+            "link": "https://en.wikipedia.org/wiki/Atlanta_hip_hop"
+            },
+            {
+              "title": "RBMA Atlanta Overview",
+              "link": "http://daily.redbullmusicacademy.com/atlanta"
+            },
+            {
+              "title": "RMBA US of Bass:",
+              "link": "htttp://daily.redbullmusicacademy.com/2016/08/atlanta-united-states-of-bass-feature"
+            }
+          ]
+      },
+      {
+        "genre": "Dirty South",
+        "summary": "123",
+        "links": [
+            {
+              "title": "Red Bull Music Acedemy King Edward J Interview",
+              "link": "http://daily.redbullmusicacademy.com/2016/08/king-edward-j-interview"
+            },          
+            {
+              "title": "Atlanta to Atlantis: An OutKast Retrospective",
+              "link": "http://pitchfork.com/features/article/9253-atlanta-to-atlantis-an-outkast-retrospective/"
+            },
+            {
+              "title": "Atlanta’s Patchwerk Studios: An Oral History",
+              "link": "http://daily.redbullmusicacademy.com/2017/08/patchwerk-studios-oral-history"
+            }            
+        ]
+      }
+    ]
+  },
+  "Baltimore": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "Baltimore Club",
+        "summary": "This style doesn't get enough recognition. Very breaky",
+        "links": [{
+            "title": "Keeping Baltimore Club Music Alive Meet Mighty Mark WCZ",
+            "link": "https://goodmenproject.com/arts/keeping-baltimore-club-music-alive-meet-mighty-mark-wcz/"
+          },
+          {
+            "title": "DJ Technics and DJ Ayres Discuss the Past and Future of Baltimore Club",
+            "link": "https://www.youtube.com/watch?v=PxZpkyNCEpw"
+          },
+          {
+            "title": "Standing Still the Stagnant Life of Baltimore Club",
+            "link": "http://pitchfork.com/thepitch/354-standing-still-the-stagnant-life-of-baltimore-club/"
+          },
+          {
+            "title": "Paradox Nightclubbing: Baltimore Club Landmark",
+            "link": "http://daily.redbullmusicacademy.com/2016/06/paradox-nightclubbing"
+          },
+          {
+            "title": "An Oral History of Baltimore Club",
+            "link": "http://www.waxpoetics.com/blog/features/articles/an-oral-history-of-baltimore-club/"
+          },
+          {
+            "title": "Sound of My City: Baltimore with Tate Kobang",
+            "link": "https://www.youtube.com/watch?v=L9i5oQSi_ss"
+          },
+          {
+            "title": "From the Basement of Baltimore",
+            "link": "https://www.skiddle.com/news/all/DJ-Spen-Interview-From-the-basements-of-Baltimore/26199/"
+          },
+          {
+            "title": "The art of DJing: Karizma",
+            "link": "https://www.residentadvisor.net/features/2741"
+          }
+        ]
+      }
+    ]
+  },
+  "Detroit": {
+    "summary": "The D!",
+    "genres": [
+      {
+        "genre": "Detroit Techno",
+        "summary": "The motor city holding it down. There's an almost disproportionate amount of good music from this city.",
+        "links": [
+          {
+            "title": "The Roots of Techno",
+            "link": "http://daily.redbullmusicacademy.com/2014/07/roots-of-techno-feature"
+          },
+          {
+            "title": "Theater of the Mind: The Legacy of the Electrifying Mojo",
+            "link": "http://daily.redbullmusicacademy.com/2015/05/electrifying-mojo-feature"
+          },
+          {
+            "title": "12edit.com: Detroit Techno",
+            "link": "http://12edit.com/detroit-techno/"
+          },
+          {
+            "title": "Top 10 Early Detroit Techno Records",
+            "link": "http://www.dummymag.com/lists/the-top-10-best-early-detroit-techno-tracks-according-to-kevin-saunderson"
+          },
+          {
+            "title": "Get Familiar With Detroit Techno: 10 Essential Songs",
+            "link": "http://www.npr.org/2011/05/27/136655438/get-familiar-with-detroit-techno-10-essential-songs"
+          },
+          {
+            "title": "Letter of Recommendation: Detroit Techno",
+            "link": "https://www.nytimes.com/2017/07/13/magazine/letter-of-recommendation-detroit-techno.html?_r=0"
+          },
+          {
+            "title": "House Music's Detroit Roots",
+            "link": "http://www.blacdetroit.com/BLAC-Detroit/August-2013/House-Musics-Detroit-Roots/"
+          },
+          {
+            "title": "We All Wanna Be Prince: Exploring The Purple One’s Impact on Dance Music",
+            "link": "http://daily.redbullmusicacademy.com/2013/10/we-all-wanna-be-prince-the-purple-ones-impact-on-dance-music"
+          },
+          {
+            "title": "Nightclubbing: The Music Institute",
+            "link": "http://daily.redbullmusicacademy.com/2017/05/music-institute-nightclubbing"
+          },
+          {
+            "title": "A Spin on Frequency: A History of Dance Music Radio in Detroit",
+            "link": "http://daily.redbullmusicacademy.com/2014/11/detroit-radio-feature"
+          },
+          {
+            "title": "Infinite Journey to Inner Space: The Legacy of Drexciya",
+            "link": "http://daily.redbullmusicacademy.com/2017/06/drexciya-infinite-journey-to-inner-space"
+          },
+          {
+            "title": "Remembering Detroit On-Air Mixing Pioneer Duane “In the Mix” Bradley",
+            "link": "http://daily.redbullmusicacademy.com/2015/03/duane-bradley-feature"
+          },
+          {
+            "title": "A Spin on Frequency: A History of Dance Music Radio in Detroit",
+            "link": "http://daily.redbullmusicacademy.com/2014/11/detroit-radio-feature"
+          },
+          {
+          	"title": "Behind the Groove: The Ron Murphy Story",
+          	"link": "http://daily.redbullmusicacademy.com/2015/05/ron-murphy-feature"
+          }
+
+        ]
+      },
+      {
+        "genre": "Detroit House",
+        "summary": "Detroit's lush take on House music",
+        "links": [
+          {
+            "title": "Detroit House Music Takes a Swaggering Step Out of the Darkness",
+            "link": "https://www.nytimes.com/2017/07/21/arts/music/detroit-house-panorama-festival-theo-parrish.html"
+          }
+        ]
+      },      
+      {
+        "genre": "Ghettotech",
+        "summary": "Miami Bass meets Detroit Techno with fast double times beats",
+        "links": [
+          {
+            "title": "Ghettotech An Oral History",
+            "link": "http://daily.redbullmusicacademy.com/2017/05/ghettotech-oral-history"
+          }
+        ]
+      }
+    ]
+  },
+  "Chicago": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "House",
+        "summary": "Gotta have House, music, all night long! With that House, music, you can't go wrong. Give me that House, music, set me free. Lost in House, music, is where I wanna be. I included acid-, hip-, deep- and ghetto house as well here even though they could be considered separate styles.",
+        "links": [
+          {
+            "title": "Frankie Knuckles",
+            "link": "https://www.theguardian.com/music/2014/apr/01/frankie-knuckles"
+          },
+          {
+            "title": "Larry Heard: Soul survivor",
+            "link": "https://www.residentadvisor.net/features/875"
+          },
+          {
+            "title": "Importes, Etc.: The Chicago Record Store That Popularized House",
+            "link": "http://daily.redbullmusicacademy.com/2016/11/importes-etc-feature"
+          },
+          {
+            "title": "A Brief History of House Music",
+            "link": "http://uk.complex.com/music/house-music-history"
+          },
+          {
+            "title": "History of Chicago House",
+            "link": "https://www.globaldarkness.com/articles/history_of_chicago_house.htm"
+          },
+          {
+            "title": "Hip House An Oral History",
+            "link": "http://daily.redbullmusicacademy.com/2016/05/hip-house-oral-history"
+          },
+          {
+            "title": "Larry Heard Fingers Inc",
+            "link": "http://daily.redbullmusicacademy.com/2017/02/larry-heard-fingers-inc"
+          },
+          {
+            "title": "Ron Hardy at the Music Box",
+            "link": "http://daily.redbullmusicacademy.com/2015/05/ron-hardy-at-the-music-box"
+          },
+          {
+            "title": "Chicago Clubs Pre-house",
+            "link": "http://daily.redbullmusicacademy.com/2016/09/chicago-clubs-pre-house-feature"
+          },
+          {
+            "title": "The Story Of Acid House: As Told By DJ Pierre",
+            "link": "http://daily.redbullmusicacademy.com/2012/12/dj-pierre-interview"
+          },
+          {
+            "title": "Disco Demolition",
+            "link": "http://daily.redbullmusicacademy.com/disco-demolition"
+          },
+          {
+            "title": "When Techno Was House",
+            "link": "http://daily.redbullmusicacademy.com/2017/08/chicago-house-detroit-techno-feature"
+          },
+          {
+            "title": "Boiler Room presents Dirty Talk: A Journey into Italo Disco",
+            "link": "https://boilerroom.tv/recording/dirty-talk-a-journey-into-italo-disco/"
+          },
+          {
+            "title": "Interview with Ghetto House architect DJ Funk",
+            "link": "http://daily.redbullmusicacademy.com/2015/11/dj-funk-interview"
+          },
+          {
+            "title": "12edit.com: Deep House",
+            "link": "http://12edit.com/deep-house/"
+          },
+          {
+            "title": "Dance Mania: Ghetto House's Motown",
+            "link": "https://www.residentadvisor.net/features/1806"
+          },
+          {
+          	"title": "From Loft to Warehouse: Chicago’s Second Wave & the Detroit Connection",
+          	"link": "https://boilerroom.tv/chicago-vs-detroit-feature/"
+          },
+          {
+            "title": "The Warehouse: The place house music got its name",
+            "link": "https://www.residentadvisor.net/features/1597"
+          },
+          {
+            "title": "Medusa's: Chicago's missing link",
+            "link": "https://www.residentadvisor.net/features/1917"
+          },
+          {
+            "title": "House Musics Roots (Tracks)",
+            "link": "http://www.gridface.com/features/house_roots/"
+          }
+        ]
+      },
+      {
+        "genre": "Footwork",
+        "summary": "Hyped up cousin of house music with fast repetitive vocal samples and frenetic rythms.",
+        "links": [
+          {
+            "title": "Inside Chicagos Explosive Footwork Scene",
+            "link": "http://www.spin.com/2012/07/these-feet-were-made-workin-inside-chicagos-explosive-footwork-scene/"
+          },
+          {
+            "title": "Fancy footwork: how Chicago's juke scene found its feet again",
+            "link": "https://www.theguardian.com/music/2015/jun/30/fancy-footwork-how-chicagos-juke-scene-found-its-feet-again"
+          },
+          {
+            "title": "The Orgins of Footwork",
+            "link": "http://www.passionweiss.com/2015/10/01/the-origins-of-footwork-an-interview-with-rp-boo/"
+          },
+          {
+            "title": "The Evolution of Footwork",
+            "link": "https://www.residentadvisor.net/features/1235"
+          },
+          {
+            "title": "Chicago's Footwork Music And Dance Get A Transatlantic Lift",
+            "link": "http://www.npr.org/sections/therecord/2010/12/14/131834348/chicago-s-footwork-music-and-dance-get-a-transatlantic-lift"
+          },
+          {
+            "title": "Footwork: 10 Essential Tracks",
+            "link": "http://pitchfork.com/features/starter/9444-footwork/"
+          },
+          {
+            "title": "Chicago Footwork: Music and Dance at a Whole New Speed",
+            "link": "https://www.greatbigstory.com/stories/chicago-footwork-music-and-dance-at-a-whole-new-speed"
+          },
+          {
+            "title": "10 Classic Footwork Tracks for People Who Don't Know Shit About Footwork",
+            "link": "http://www.laweekly.com/music/10-classic-footwork-tracks-for-people-who-dont-know-shit-about-footwork-7603152/2"
+          },
+          {
+            "title": "RBMA Lecture with DJ Rashad & DJ Spinn",
+            "link": "http://www.redbullmusicacademy.com/lectures/dj-rashad-dj-spinn-windy-city-boom"
+          }
+        ]
+      },
+      {
+        "genre": "Drill",
+        "summary": "Stuttering beats with braggy verses",
+        "links": [
+          {
+            "title": "Chicago Rap Blazes Up From the Streets",
+            "link": "https://www.spin.com/2012/06/chicago-rap-blazes-streets/"
+          },
+          {
+            "title": "The battle for the soul of Chicago hip-hop",
+            "link": "https://www.wbez.org/shows/wbez-news/the-battle-for-the-soul-of-chicago-hip-hop/3306ee2b-da7d-4186-9e59-f0b1ab2e5ac3"
+          }
+        ]
+      }
+    ]
+  },
+  "Jersey City": {
+    "summary": "This should really be Newark and Jersey City but that wouldn't fit nicely on the map. Sorry about that Newark people.",
+    "genres": [
+      {
+        "genre": "Jersey Club",
+        "summary": "Closely related to Baltimore Club",
+        "links": [
+          {
+            "title": "Jersey club: From Newark to the world",
+            "link": "https://www.residentadvisor.net/features/2268"
+          },
+          {
+            "title": "DJ Uniiqu3 and The Rise of Jersey Club",
+            "link": "https://thump.vice.com/en_us/article/nzmjnk/jersey-club-dj-uniique-afropunk-newark-brick-bandits"
+          },
+          {
+            "title": "Ten Best Jersey Club Tracks",
+            "link": "http://www.dummymag.com/lists/the-10-best-jersey-club-tracks-according-to-r3ll"
+          },
+          {
+            "title": "What is Jersey Club Music",
+            "link": "http://runthetrap.com/2013/10/13/what-is-jersey-club-music/"
+          },
+          {
+            "title": "Nightclubbing: Zanzibar, An Oral History",
+            "link": "http://daily.redbullmusicacademy.com/2015/02/nightclubbing-zanzibar-oral-history"
+          }
+        ]
+      }
+    ]
+  },
+  "Philadelphia":
+  {
+    "summary": "",
+    "genres":
+    [
+      {
+        "genre": "Philadelphia Soul",
+        "summary": "Precursor to Disco",
+        "links": [
+          {
+            "link": "http://pitchfork.com/features/starter/9198-philadelphia-international-records/",
+            "title": "Philadelphia Internation Records"
+          }
+        ]
+      }
+    ]
+  },
+  "New York City": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "Garage House",
+        "summary": "NYC's take on house",
+        "links": [
+          {
+            "title": "New York City House",
+            "link": "http://daily.redbullmusicacademy.com/2013/05/new-york-house"
+          },
+          {
+            "title": "Nightclubbing: The Bronx’s Warehouse",
+            "link": "http://daily.redbullmusicacademy.com/2017/03/nightclubbing-the-warehouse"
+          },
+          {
+            "title": "Bounce Ballroom",
+            "link": "http://daily.redbullmusicacademy.com/2014/04/bounce-ballroom-feature"
+          },
+          {
+            "title": "The NYC House renaissance",
+            "link": "https://www.residentadvisor.net/features/1075"
+          },
+          {
+            "title": "Todd Terry Interview",
+            "link": "http://daily.redbullmusicacademy.com/2013/05/todd-terry-interview"
+          },
+          {
+            "title": "From Disco to Disco: New York’s Global Clubbing Influence",
+            "link": "http://daily.redbullmusicacademy.com/2013/06/from-disco-to-disco"
+          },
+          {
+            "title":"New York Stories: David Mancuso",
+            "link":"http://daily.redbullmusicacademy.com/2013/05/new-york-stories-david-mancuso"
+          }
+        ]
+      }
+    ]
+  },
+  "Los Angeles": {
+    "summary": "",
+    "genres": [
+        {
+        "genre": "LA Beats",
+        "summary": "Woozy beats from the City of Angels. We can hear its influence in chart topping Kendrick Lamar albums. Blending hip-hop, jazz, soul and obscure rarities into a woozy bass heavy style.",
+        "links": [
+          {
+            "title": "East Side story: LA's backyard party scene",
+            "link": "https://www.residentadvisor.net/features/2917"
+          },
+          {
+            "title": "How The LA Beat Scene Brought Jazz Back",
+            "link": "https://www.forbes.com/sites/passionoftheweiss/2017/05/03/daddy-kev-alpha-pup-interview/#2a4d185c44ec"
+          },
+          {
+            "title": "Los Angeles Beat Scene",
+            "link": "https://story.californiasunday.com/los-angeles-beat-scene"
+          },
+          {
+            "title": "The Golden Dawn of the LA Beat Scene",
+            "link": "http://pitchfork.com/features/pitchfork-essentials/9716-the-golden-dawn-la-beat-scene-origins/"
+          },
+          {
+            "title": "'Prince came to my club': The birth of the L.A. beat scene, as told by Kutmah",
+            "link": "http://www.factmag.com/2013/04/03/prince-came-to-my-club-the-birth-of-l-a-beat-scene-as-told-by-kutmah/"
+          },
+          {
+            "title": "Real Scenes LA",
+            "link": "https://www.residentadvisor.net/features/2679"
+          }
+        ]
+      },
+      {
+        "genre": "LA Electro",
+        "summary": "OG party music",
+        "links": [
+          {
+            "title": "RBMA Egyptian Lover Lecture",
+            "link": "http://www.redbullmusicacademy.com/lectures/egyptian-lover"
+          }
+        ]
+      }
+    ]
+  },
+  "Memphis": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "Memphis Rap",
+        "summary": "Murky beats and violent rhymes, I don't think I could describe it better than Legowelt so I'll just quote his description. \"Think over the top OMINOUS John Carpenter basslines, more tape smudge and obscurity then all minimal wave records in history, enchanting inspiring melodies and pure unadulterated poetry. Unknown to the large public and mostly forgotten, Memphis Rap is a truly unique rap/hiphop style that originated out of Memphis, Tennessee during the early 90s. The sound is extremely dark and electronic sometimes even bordering to the UK IDM sound. Best described as a slow electro style somewhat similar to the 1999 Orgue Electronique The Eye That Never Sleeps album combined with an Eazy-E NWA vibe mixed with raw synthetic soundtracks from the 1980s. <br /> In contrast to normal rap and hiphop the sampling of soul & RnB records is rare and the genre shines in mostly original produced tracks with thick synthetic John Carpenter style bass lines and mesmerizing hypnotic melodies. The drummachine of choice was the BOSS DR660 with its snappy lo-fi snares and build in synthbass sounds. If sampling occurs it is mostly from (horror)soundtracks and other (Memphis) rap tracks. Particular are the raps with unique tongue twisting telling the heroic stories of gangsters and their crime antics. Occult demon stuff, witchcraft and worship of weed are also common subjects in the lyrics. Some tracks don't even have raps but a few sampled snippets that keep repeating like a mantra for a drug crazed hazy lifestyle of crime. Vinyl releases were almost non existent in this scene, mixtapes on cassettes and CD's were the media of choice. The golden years of Memphis rap were probably from 1992 till around 1995 when the sound had a unique rawness created by lo-fi tape recordings, cheap MIDI equipment and the genius production skills of Tommy Wright III, DJ Sound, DJ Spanish Fly, DJ Paul and Lord Infamous. Sadly the style watered down as many artist went on to record other styles of rap music. Memphis Rap would evolve into Horror-core rap and together with Miami Bass it also lay the the foundation for Crunk music in the 1990s.\"",
+        "links": [
+          {
+            "title": "Hip Hop Pit Stop: The Slow And Low Sound Of Memphis’s DJ Spanish Fly",
+            "link": "http://daily.redbullmusicacademy.com/2012/07/noz-pit-stop-memphis-spanish-fly"
+          },
+          {
+            "title": "Exhaustive Memphis Rap Overview byswolepocketshawty on Reddit",
+            "link": "https://www.reddit.com/r/hiphopheads/comments/3u01k0/i_saw_some_interest_in_the_90s_memphis_hiphop/"
+          },
+          {
+            "title": "The Unsung Heroes of Early Memphis Rap",
+            "link": "http://daily.redbullmusicacademy.com/2017/08/memphis-rappers"
+          }
+        ]
+      }
+    ]
+  },
+  "Miami": {
+    "summary": "",
+    "genres": [
+    {
+      "genre": "Miami Bass",
+      "summary": "Miami bass, the genre that doesnt need more cowbell.",
+      "links": [
+        {
+          "title": "Miami Bass: The Primer",
+          "link": "http://www.stylusmagazine.com/articles/weekly_article/miami-bass-the-primer.htm"
+        },
+        {
+          "title": "Orgin of the South Beaches First Movement",
+          "link": "https://www.magneticmag.com/2015/08/miami-bass-the-origin-of-south-beachs-first-movement/"
+        },
+        {
+          "title": "Red Bull Music Academy Miami Bass Overview",
+          "link": "http://daily.redbullmusicacademy.com/miami-bass"
+        },
+        {
+          "title": "The Story of Miami Bass",
+          "link": "https://thump.vice.com/en_us/article/ez8ezw/tootsie-rolls-hoochie-mamas-and-cars-that-go-boom-the-story-of-miami-bass"
+        },
+        {
+          "title": "Miami Bass: An Abbreviated History According to Joe Stone",
+          "link": "http://www.miaminewtimes.com/music/miami-bass-an-abbreviated-history-according-to-joe-stone-6436488"
+        },
+        {
+          "title": "RMBA Overview",
+          "link": "http://daily.redbullmusicacademy.com/miami-bass"
+        },
+        {
+          "title": "RMBA Ucle Luke Interview",
+          "link": "http://daily.redbullmusicacademy.com/2015/08/uncle-luke-interview"
+        },
+        {
+          "title": "Pirate Radio in Miami",
+          "link": "http://daily.redbullmusicacademy.com/2015/10/miami-pirate-radio-feature"
+        },
+        {
+          "title": "Fresh Kid Ice on 2 Live Crew’s Early Years",
+          "link": "http://daily.redbullmusicacademy.com/2017/07/fresh-kid-ice-excerpt"
+        },
+        {
+          "title": "Pirate Radio in Miami",
+          "link": "http://daily.redbullmusicacademy.com/2015/10/miami-pirate-radio-feature"
+        },
+        {
+          "title": "Magic Mike’s Miami Bass Bombs",
+          "link": "http://daily.redbullmusicacademy.com/2013/05/magic-mike-bass-bombs-feature"
+        }
+      ]
+    }
+    ]
+  },
+  "Washington D.C.": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "Boogie, D.C. Rap",
+        "summary": "DC",
+        "links": [
+          {
+            "title": "DC’s Fat Rodney And Fat Trel",
+            "link": "http://daily.redbullmusicacademy.com/2012/06/noz-pit-stop-dc"
+          },
+          {
+            "title": "Peoples Potential Unlimited Label",
+            "link": "https://www.residentadvisor.net/features/2942"
+          }
+        ]
+      }
+    ]
+  },
+  "New Orleans": {
+    "genres": [
+      {
+        "genre": "Rap, Bounce",
+        "summary": "Nola is famous for jazz, funk, rythm & blues and brass bands but its rap is often overlooked",
+        "links": [
+          {
+            "title": "Beyond Soulja Slim: Remembering the Lost Heroes of New Orleans Rap",
+            "link": "http://daily.redbullmusicacademy.com/2016/06/new-orleans-rap"
+          },
+          {
+            "title": "New Orleans’s Gender-Bending Rap",
+            "link": "https://www.nytimes.com/2010/07/25/magazine/25bounce-t.html?pagewanted=all&_r=0"
+          },
+          {
+            "title": "A Brief History Of New Orleans' Bounce Music Style",
+            "link": "https://theculturetrip.com/north-america/usa/louisiana/articles/history-of-bounce-music/"
+          },
+          {
+            "title": "The Mind of Mannie Fresh",
+            "link": "http://daily.redbullmusicacademy.com/2011/11/mannie_fresh_countdown_feature"
+          }
+        ]
+      }
+    ] 
+  },
+  "Houston": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "Screwed Up",
+        "summary": "Syruppy slow cut up rap",
+        "links": [
+          {
+            "title": "DJ Screw: A Fast Life In Slow Motion",
+            "link": "http://daily.redbullmusicacademy.com/2015/05/dj-screw-feature"
+          },
+          {
+            "title": "DJ Screw The Untold Story",
+            "link": "https://www.youtube.com/watch?v=ba0etNINzkA"
+          },
+          {
+            "title": "Hip Hop Pit Stop: Houston And Odd Squad’s Rob Quest",
+            "link": "http://daily.redbullmusicacademy.com/2012/05/noz-pit-stop-houston2"
+          },
+          {
+            "title": "Hip Hop Pit Stop: Houston's Killa Kyleon & Coppertone Conspiracy",
+            "link": "http://daily.redbullmusicacademy.com/2012/04/noz-pit-stop-houston"
+          }
+        ]
+      }
+    ]
+  },
+  "Bay Area": {
+    "summary": "",
+    "genres": [
+      {
+        "genre": "Hyphy",
+        "summary": "Up-tempo hip-hop",
+        "links": [
+            {
+              "title": "An Oral History of Hyphy",
+              "link": "http://www.complex.com/music/2016/06/hyphy-oral-history"
+            },
+            {
+              "title": "Go Dumb: Why hyphy is the best hip-hop right now",
+              "link": "http://www.slate.com/articles/arts/music_box/2007/02/go_dumb.html"
+            }
+        ]
+      }
+    ]
+  }
+}

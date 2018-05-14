@@ -1,0 +1,200 @@
+<!-- To-do 
+
+-Rap/dance filter
+-Us genre recommended books section with amazon refferal links
+-Foldout on genre click
+
+-Expand
+  -drill
+  -philadelphia rap
+  -atlanta hip hop
+
+-Add
+  -los angeles rap
+  -Hyphie bay area
+-->
+
+<!DOCTYPE html>
+<head>
+  <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Francois+One|Roboto" rel="stylesheet">
+<style>
+/* Base styles */
+::selection {
+  background: #f3ce58; 
+  color: white;
+}
+
+main {
+  margin: 0 auto;
+  max-width: 50em;
+  font-family: 'Roboto', sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #f3ce58;  
+}
+
+.citybox:hover {
+  stroke: #f3ce58 !important;
+}
+
+
+hr {
+  background: none;
+  border: none;
+  border-bottom: 1px solid #d8dee9;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+pre {
+  overflow: auto;
+  white-space: pre-wrap;
+}
+
+footer {
+  -webkit-box-align: center;
+    -ms-flex-align: center;
+       align-items: center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  margin-top: 4em;
+  text-align: center;
+}
+
+body {
+  margin: 0 auto;
+  background: #4392D0;
+  line-height: 1.5;
+}
+
+h1 {
+    font-size: 4em;
+    font-family: 'Francois One', sans-serif;
+}
+
+h2 {
+  font-size: 2em;
+  font-family: 'Francois One', sans-serif;
+}
+
+h3, h4 {
+  padding : 0;
+  margin: 0;
+}
+
+/* ----- Header ----- */
+
+header {
+  line-height: 1.2;
+  text-align: center;
+}
+
+header h1 {
+  color: #f3ce58;
+  font-size: 3em;
+  text-decoration: bold;
+  font-weight: 300;
+  text-transform: uppercase;
+  letter-spacing: -0.05em;
+}
+/* ----- SVG ----- */
+
+text {
+    font-family: 'Roboto', sans-serif;
+    z-index: 5;
+}
+
+.background {
+  fill: none;
+  pointer-events: all;
+}
+
+.feature {
+  cursor: pointer;
+}
+
+.state {
+  fill: white;
+}
+
+.urban {
+  fill: gray;
+  z-index: -1:;
+}
+
+#NewYorkCity {
+  transform: translate(620px, 150px);
+}
+
+#JerseyCity {
+  transform: translate(580px, 173px);
+}
+
+#Baltimore {
+  transform: translate(600px, 220px);
+}
+
+.citybox {
+  rx: 8;
+  ry: 8;
+  fill: white;
+  fill-opacity: 0.45;
+  pointer-events:all;
+  stroke: black;
+  z-index: -1;
+}
+
+.mesh {
+  fill: none;
+  stroke: #4392D0;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+}
+
+</style>
+</head>
+  <body>
+
+    <header id="header">
+
+      <h1>US Regional Music Genres & Styles</h1>
+
+    </header>
+
+    <main>
+
+      <p>
+      Hey you! Wanna spend a few hours reading about the history of regional US dance music or hip-hop -styles? Sure you do! Since I'm not much of a writer and even less of a music journalist I collected a bunch of worthwhile articles in one convenient page for you all. So go ahead and click on a city in the map for a short description and a bunch of links to interesting content on that city's music styles/genres.
+      <br> For now it's mostly focused on <em>DJ's music</em>; meaning dance or hip-hop and everything in between because that's what I like. <!-- I might add some other genres and styles, like jazz, funk, and soul one day but that's a whole lot a work. 
+      <br/>
+      Music scenes are no longer really bounded by geography like back in the pre-internet days. -->
+      </p>
+
+      <svg></svg>
+
+      <script src="https://d3js.org/d3.v4.min.js"></script>
+      <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
+      <script src="https://unpkg.com/topojson@3"></script>
+      <script src="main.js"></script>
+      </script>
+
+      <div id="text"></div>
+
+    </main>
+
+  </body>
+</html>
+
